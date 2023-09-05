@@ -28,10 +28,6 @@ Create and View new Text File: <br/>
 <img src="https://imgur.com/CtDMEBi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Upload and Select Image to View:  <br/>
-<img src="https://imgur.com/Nu0KS6C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 View Image and Resize the Image from Original Size:  <br/>
 <img src="https://imgur.com/w8uZq04.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
